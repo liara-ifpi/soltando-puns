@@ -1,2 +1,6 @@
-# soltando-puns
-This repository contains the source code to detect puns in Portuguese
+# Requirements
+- Python (version 3.6 or later)
+- pip install -r requirements.txt
+
+# Usage
+`python3 init.py`
